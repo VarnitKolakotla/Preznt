@@ -1,4 +1,4 @@
-#PREZNT: AI-Based Attendance System using Facial Recognition
+**#PREZNT: AI-Based Attendance System using Facial Recognition**
 
 PREZNT is a production-ready, AI-powered attendance management system designed for academic institutions. Built for Geethanjali College of Engineering and Technology (GCET), it replaces traditional roll-call and paper-based attendance with a secure, contactless facial recognition workflow. The platform ensures that only verified college email holders (@gcet.edu.in) can access the system, and it distinguishes between students and professors through role-based access control.
 
